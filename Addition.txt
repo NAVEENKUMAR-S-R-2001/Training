@@ -1,4 +1,5 @@
 #Adding of two number
-a=10
-b=20
-print('sum of a amd b is:',a+b)
+a=int(input())
+b=int(input())
+c=a+b
+print('sum of a amd b is:',c)
