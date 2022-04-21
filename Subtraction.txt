@@ -1,3 +1,4 @@
+#Subtraction of two number
 a=10
 b=20
 print('Subtraction of a and b is:',b-a)
