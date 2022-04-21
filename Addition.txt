@@ -1,5 +1,4 @@
 #Adding of two number
 a=int(input())
 b=int(input())
-c=a+b
-print('sum of a amd b is:',c)
+print('sum of a amd b is:',a+b)

@@ -1,5 +1,4 @@
 #Subtraction of two number
 a=int(input())
 b=int(input())
-c=a-b
-print('Subtraction of a and b is:',c)
+print('Subtraction of a and b is:',a-b)
