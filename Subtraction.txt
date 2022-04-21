@@ -1,4 +1,5 @@
 #Subtraction of two number
-a=10
-b=20
-print('Subtraction of a and b is:',b-a)
+a=int(input())
+b=int(input())
+c=a-b
+print('Subtraction of a and b is:',c)
