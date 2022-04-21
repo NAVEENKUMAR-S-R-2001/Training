@@ -1,5 +1,4 @@
 #Multiflication of two number
-a=int(input())
-b=int(input())
-c=a*b
-print('Multiflication of a and b is:',c)
+a=int(input('Enter a value for a'))
+b=int(input('Enter a value for b'))
+print('Multiflication of a and b is:',a*b)
