@@ -1,3 +1,4 @@
 #Adding of two number
 a,b=input('Enter value for a and b: ').split()
 print('sum of a amd b is:',int(a)+int(b))
+#
